@@ -1,0 +1,6 @@
+@echomail_HostAddress = http://localhost:5048
+
+GET {{echomail_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
