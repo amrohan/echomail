@@ -216,4 +216,4 @@ _(Provide the other env vars with `-e` as shown above.)_
 
 ## 📜 License
 
-MIT © 2024 Your Name / EchoMail
+MIT © 2024 amrohan / EchoMail
